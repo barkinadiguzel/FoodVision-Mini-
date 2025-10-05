@@ -3,7 +3,7 @@
 > **EfficientNetB2-based image classifier trained on 20% of the Food-101 dataset to distinguish between pizza, steak, and sushi using PyTorch.**
 
 An image classification project built with **PyTorch**, designed to distinguish between **pizza**, **steak**, and **sushi** images using an **EfficientNetB2** architecture.  
-Only **20% of the original FoodVision dataset** was used to train this compact yet effective model.
+Only **20% of the original Food-101 dataset** was used to train this compact yet effective model.
 
 ---
 
@@ -16,7 +16,7 @@ The model is lightweight, quick to train, and performs well on limited data.
 - Implemented entirely with **PyTorch**
 - 3-class classification: 🍕 **Pizza**, 🥩 **Steak**, 🍣 **Sushi**
 - Uses **EfficientNetB2** as the feature extractor
-- Trained on only **20%** of the FoodVision dataset
+- Trained on only **20%** of the Food-101 dataset
 - Includes scripts for training, validation, and inference
 - Ready for deployment or further fine-tuning
 

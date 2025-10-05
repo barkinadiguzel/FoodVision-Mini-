@@ -4,7 +4,7 @@
 
 An image classification project built with **PyTorch**, designed to distinguish between **pizza**, **steak**, and **sushi** images using an **EfficientNetB2** architecture.  
 Only **20% of the original Food-101 dataset** was used to train this compact yet effective model.
-
+[Download the model](https://huggingface.co/spaces/Barkins/Food_Vision_Mini/blob/main/09_pretrained_effnetb2_feature_extractor_pizza_steak_sushi_20_percent.pth)
 ---
 
 ## 🧠 Overview
